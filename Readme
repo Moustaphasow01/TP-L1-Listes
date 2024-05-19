@@ -1,0 +1,6 @@
+Commande pour compiler le code : 
+
+1 - gcc -c fonctions.c -o fonctions.o
+2 - gcc -c main.c -o main.o
+3 - gcc fonctions.o main.o -o programme
+4- ./programme
